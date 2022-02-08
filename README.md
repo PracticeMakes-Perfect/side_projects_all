@@ -5,5 +5,5 @@
 - java side projects
 - java practice
 - learn c in hard way
-- c practice
+- c & c++ practice
 
