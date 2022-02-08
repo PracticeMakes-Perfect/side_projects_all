@@ -1,5 +1,5 @@
-#for my side projects
-##list
+# for my side projects
+## list
 - leetcodes
 - algorithm
 - java side projects

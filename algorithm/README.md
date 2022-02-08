@@ -1,3 +1,3 @@
-#for algorithm I had implmented
-##list
+# for algorithm I had implmented
+## list
 
